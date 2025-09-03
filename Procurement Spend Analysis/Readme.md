@@ -4,8 +4,11 @@
 
 A comprehensive procurement spend analysis dashboard that provides insights into global spending patterns, cash flow management, and approval processes across multiple regions and categories.
 
-!Dashboard Preview(![spend Analysis](https://github.com/user-attachments/assets/aeed3dec-b2a2-4918-bd5c-7a5692ac8d37)
-)!Datamodeling (https://github.com/user-attachments/assets/8e7d7aa9-f2e1-4371-bda9-b4b31eebc561)
+## Dashboard Preview
+![spend Analysis](https://github.com/user-attachments/assets/aeed3dec-b2a2-4918-bd5c-7a5692ac8d37)
+## Datamodeling
+![Datamodeling](https://github.com/user-attachments/assets/562fa07a-39bc-4970-ac50-9228d0e399df)
+
 
 
 ## 🎯 Objective
@@ -84,4 +87,9 @@ Automated flagging for purchases requiring special approval:
 - **Data Processing**: Pivot Tables, Advanced Formulas
 - **Visualization**: Interactive Charts, Slicers, KPI Cards
 - **Features**: Multi-currency conversion, Dynamic filtering, Automated calculations
+
+  ## 👤 Author
+
+**Guru prasath S** 
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/guru-prasath-sethuraman-49446b56/)
 
