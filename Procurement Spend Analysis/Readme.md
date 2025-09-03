@@ -86,6 +86,5 @@ Automated flagging for purchases requiring special approval:
 - **Features**: Multi-currency conversion, Dynamic filtering, Automated calculations
 
 
----
-
-⭐ **If you found this project helpful, please give it a star!** ⭐
+👤 Author
+Guru prasath S 🔗 LinkedIn Profile
